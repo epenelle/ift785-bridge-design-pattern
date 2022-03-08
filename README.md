@@ -1,0 +1,1 @@
+# ift785-bridge-design-pattern
